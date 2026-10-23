@@ -4,7 +4,7 @@ title: Fiesta Jarabe Statue
 author: Madalyn Rodriguez 
 category: Public Art                  # change to a category from the student guide
 header-image: default.jpg  # the filename of your own image
-header-caption: New Mexicos Digital Collections. Plain text only, no links.
+header-caption: New Mexicos Digital Collections.
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
