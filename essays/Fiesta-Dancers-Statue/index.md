@@ -3,7 +3,7 @@
 title: Fiesta Jarabe Statue
 author: Madalyn Rodriguez
 category: Public Art                 # change to a category from the student guide
-header-image: default.jpg   # the filename of your own image
+header-image: fiesta-dancers-statue.jpg   # the filename of your own image
 header-caption: Fiesta Dancers - New Mexicos Digital Collection 2018.
 
 # Fill these in later, once your research is under way.
