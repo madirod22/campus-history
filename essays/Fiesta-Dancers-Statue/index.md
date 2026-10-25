@@ -1,22 +1,13 @@
 ---
 # Change these five lines as soon as you copy this starter.
-<<<<<<< HEAD
 title: Fiesta Jarabe Statue
 author: Madalyn Rodriguez
 category: Public Art                 # change to a category from the student guide
 header-image: default.jpg   # the filename of your own image
 header-caption: Fiesta Dancers - New Mexicos Digital Collection 2018.
-=======
-title: Fiesta Jarabe Statue
-author: Madalyn Rodriguez 
-category: Public Art                  # change to a category from the student guide
-header-image: default.jpg  # the filename of your own image
-header-caption: New Mexicos Digital Collections.
->>>>>>> 6fb8f4211c130090d2038044b52603f8bb69842c
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
-start:                                   # the year your story begins, shown on the map
 
 # Leave this line as it is.
 layout: essay
