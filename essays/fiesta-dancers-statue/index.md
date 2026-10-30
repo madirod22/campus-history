@@ -12,8 +12,33 @@ card-description: Replace this with two sentences that summarize the story your 
 # Leave this line as it is.
 layout: essay
 ---
+The History of the Fiesta Jarabe Statue at the University of New Mexico
+The Fiesta Jarabe statue, also known as Fiestas Dancers, is a colorful public artwork located outside the Center for the Arts at the University of New Mexico (UNM) in Albuquerque. Created by Mexican American artist Luis Jiménez, the sculpture celebrates Mexican cultural traditions and the lives of working-class people in the American Southwest. Since its installation in 1996, the statue has become a recognizable campus landmark and a source of debate about art, cultural representation, and beauty.
+Luis Jiménez Jr. was born in El Paso, Texas, in 1940. Growing up in a Mexican American family, he developed an interest in art, popular culture, and the experiences of working-class communities. He became well known for his large, brightly colored fiberglass sculptures featuring exaggerated bodies, expressive movements, and subjects connected to Southwestern and Mexican American culture. According to the U.S. General Services Administration, Jiménez used public art to celebrate cultures and individuals often overlooked in mainstream American history. His work frequently challenged traditional ideas about what art should look like and whose experiences deserved recognition. 
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+GSA Fine Arts Collection+1
+
+The title Fiesta Jarabe refers to the jarabe, a traditional Mexican dance commonly associated with the Mexican hat dance, or Jarabe Tapatío. The sculpture depicts a man and a woman facing each other in energetic dancing poses. Their clothing features vivid colors, and a large sombrero rests between them. Jiménez constructed the UNM sculpture from fiberglass, epoxy, and metallic powdered paint. Its lively poses and bold colors make the dancers stand out against the university's architecture. Rather than presenting idealized, delicate figures, Jiménez portrayed people with strong bodies and distinctive physical features, emphasizing the humanity of ordinary people. 
+
+UNM Art Museum+1
+
+The sculpture was created between 1992 and 1996 and installed on UNM's campus in 1996. It stands near the Center for the Arts, which houses Popejoy Hall and the UNM Art Museum. The placement gives the work a prominent position where students, employees, and visitors encounter it. Although the sculpture is now commonly called Fiestas Dancers, its official title is Fiesta Jarabe. Jiménez produced five versions of the composition, but they are not exact copies; variations in design and color distinguish the different versions. 
+
+UNM Art Museum+1
+
+The public response to Fiesta Jarabe was divided from the beginning. Some viewers appreciated its energy and cultural significance, while others criticized its appearance as ugly or inelegant. On May 10, 1996, UNM art history professor David Craven defended the sculpture in an article published in The Albuquerque Tribune. Craven argued that the criticism reflected a narrow, mainstream understanding of beauty rather than an appreciation of the sculpture's artistic and historical meaning. The controversy demonstrated how public art can challenge people's expectations and encourage discussion about cultural identity. 
+
+UNM Art Museum
+
+The statue's history also includes the challenges of preserving outdoor artwork. By 2019, nearly 23 years after its installation, exposure to the weather had significantly faded its bright colors. On February 21, 2019, the university announced that the sculpture had been restored through a collaboration between the UNM Art Museum and Silo Workshop, a professional art conservation company. Restorer Conor Hollis explained that the team applied layers of transparent color to recover the depth and vibrancy of Jiménez's original paintwork. Arif Khan, then director of the UNM Art Museum, emphasized the importance of maintaining campus public art so future generations could continue to experience it. 
+
+UNM UCAM Newsroom
+
+Today, Fiesta Jarabe represents more than a pair of dancers. Its history reflects the importance of Mexican American artists in shaping the cultural identity of New Mexico and the ways public monuments can spark debate. Jiménez's decision to portray working-class people with bold colors and exaggerated physical features challenged conventional artistic standards. The criticism and later restoration of the sculpture show that public art is not simply decorative; it can preserve cultural traditions, question established ideas, and create conversations across generations. Since 1996, the statue has remained part of UNM's public art collection and an enduring reminder of the cultural stories represented on campus.
+Sources
+Hannah Cerne, “Luis Jiménez: In the UNMAM Collection,” University of New Mexico Art Museum, November 21, 2023. Provides background on Jiménez, the sculpture's materials, its installation in 1996, and the public controversy. Read the article.  
+Victoria Pena-Parr, “UNM restores iconic sculpture on campus,” UNM Newsroom, February 21, 2019. Documents the restoration, weather damage, and the university's preservation efforts. Read the article.  
+University of New Mexico Libraries, Center for Southwest Research and Special Collections, “Fiesta Dancers,” Historic Preservation Committee Photograph Collection. Provides archival documentation and a photograph of the sculpture dated 1996. View the archival recor This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
 
 Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
 
