@@ -38,8 +38,7 @@ Today, Fiesta Jarabe represents more than a pair of dancers. Its history reflect
 Sources
 Hannah Cerne, “Luis Jiménez: In the UNMAM Collection,” University of New Mexico Art Museum, November 21, 2023. Provides background on Jiménez, the sculpture's materials, its installation in 1996, and the public controversy. Read the article.  
 Victoria Pena-Parr, “UNM restores iconic sculpture on campus,” UNM Newsroom, February 21, 2019. Documents the restoration, weather damage, and the university's preservation efforts. Read the article.  
-University of New Mexico Libraries, Center for Southwest Research and Special Collections, “Fiesta Dancers,” Historic Preservation Committee Photograph Collection. Provides archival documentation and a photograph of the sculpture dated 1996. View the archival recor This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
-
+University of New Mexico Libraries, Center for Southwest Research and Special Collections, “Fiesta Dancers,” Historic Preservation Committee Photograph Collection. Provides archival documentation and a photograph of the sculpture dated 1996. View the archival recor d.
 
 
 ## Main Story
