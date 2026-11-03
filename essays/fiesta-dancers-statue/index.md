@@ -40,7 +40,7 @@ Hannah Cerne, “Luis Jiménez: In the UNMAM Collection,” University of New Me
 Victoria Pena-Parr, “UNM restores iconic sculpture on campus,” UNM Newsroom, February 21, 2019. Documents the restoration, weather damage, and the university's preservation efforts. Read the article.  
 University of New Mexico Libraries, Center for Southwest Research and Special Collections, “Fiesta Dancers,” Historic Preservation Committee Photograph Collection. Provides archival documentation and a photograph of the sculpture dated 1996. View the archival recor This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+
 
 ## Main Story
 
