@@ -36,7 +36,8 @@ UNM UCAM Newsroom
 
 Today, Fiesta Jarabe represents more than a pair of dancers. Its history reflects the importance of Mexican American artists in shaping the cultural identity of New Mexico and the ways public monuments can spark debate. Jiménez's decision to portray working-class people with bold colors and exaggerated physical features challenged conventional artistic standards. The criticism and later restoration of the sculpture show that public art is not simply decorative; it can preserve cultural traditions, question established ideas, and create conversations across generations. Since 1996, the statue has remained part of UNM's public art collection and an enduring reminder of the cultural stories represented on campus.
 
-Sources
+Sources:
+
 Hannah Cerne, “Luis Jiménez: In the UNMAM Collection,” University of New Mexico Art Museum, November 21, 2023. Provides background on Jiménez, the sculpture's materials, its installation in 1996, and the public controversy. Read the article.  
 Victoria Pena-Parr, “UNM restores iconic sculpture on campus,” UNM Newsroom, February 21, 2019. Documents the restoration, weather damage, and the university's preservation efforts. Read the article.  
 University of New Mexico Libraries, Center for Southwest Research and Special Collections, “Fiesta Dancers,” Historic Preservation Committee Photograph Collection. Provides archival documentation and a photograph of the sculpture dated 1996. View the archival recor d.
