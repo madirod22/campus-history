@@ -56,7 +56,7 @@ As you walk on UNMs campus and you enjoy all the unique structures and public th
   class="img-center"
   width="100%"
   caption=" A photograph taken by Oscar Lozoya. Luis Jimenez surrounded by his sculptures representing his mark in the artist world.
-Albuquerque Museum - One Albuquerque, circa 1997. [source] https://artmuseum.unm.edu/luis-jimenez/"
+Albuquerque Museum - One Albuquerque, circa 1997. '[source] https://artmuseum.unm.edu/luis-jimenez/'
   image-path="luis-jimenez-photo.jpg"
 %}
 
