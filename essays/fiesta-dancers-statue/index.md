@@ -45,11 +45,8 @@ Victoria Pena-Parr, “UNM restores iconic sculpture on campus,” UNM Newsroom,
 University of New Mexico Libraries, Center for Southwest Research and Special Collections, “Fiesta Dancers,” Historic Preservation Committee Photograph Collection. Provides archival documentation and a photograph of the sculpture dated 1996. View the archival recor d.
 
 
-## Main Story
-
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
-
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
+## The Story Behind the “Fiesta Jarabe (Dancers) Statue”
+As you walk on UNMs campus and you enjoy all the unique structures and public that is hidden within the campus you may come across a certain statue that many students would call “ugly”. Though it is not the prettiest and most perfect piece of art, it definitely holds a lot of heritage that is embedded and apart of what the University of New Mexico. “Fiesta Jarabe Statue” was created by Luis Jimenez, an artist that was constant creating new and unique ideas through many points in the country, with that Jimenez is also pushing a message about social and political boundaries (Cerne). Growing up surrounded by art and his hispanic heritage, he was bound to become famous for creating hispanic art that sends out a message to the world. His is art is thought provoking and representational though many challenges come with it historically and politically. 
 
 <!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
      image-path is just the filename: upload your images into this essay's folder,
