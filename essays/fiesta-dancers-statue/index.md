@@ -59,7 +59,6 @@ As you walk on UNMs campus and you enjoy all the unique structures and public th
 Albuquerque Museum - One Albuquerque, circa 1997. [source]https://artmuseum.unm.edu/luis-jimenez/
   image-path="luis-jimenez-photo.jpg"
 %}
-
 ## “Who is Luis Jimenez?”
 
 Luis Jimenez grew up in El Paso, Texas with his grandfather as a glass blower in Mexico and his own father wanting to be a professional artist, was a glass blower. This is where Jimenez is introduced to those industrial materials like fiberglass which is what he used in all of his art during his career. Then later attending the University of Texas where he graduated with a degree in fine arts. Jimenez had been in Mexico before moving to New York City to become an assistant to a famous sculptor named Seymour Lipton. After getting the opportunity to put his own work out there which went very well after finding a market where buyers wanted his art work immediately. By 1972, he had moved on to Roswell, New Mexico since his studio back on at home was too small. Eventually he found an abandoned schoolhouse in Hondo, New Mexico where he reconstructed it to be his home and permanent studio. Since moving back to the southwest, he solely focuses on western ideologies and stories. 
