@@ -61,11 +61,11 @@ As you walk on UNMs campus and you enjoy all the unique structures and public th
 
 Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
 
-## What Changed
+## “Who is Luis Jimenez?”
 
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
+Luis Jimenez grew up in El Paso, Texas with his grandfather as a glass blower in Mexico and his own father wanting to be a professional artist, was a glass blower. This is where Jimenez is introduced to those industrial materials like fiberglass which is what he used in all of his art during his career. Then later attending the University of Texas where he graduated with a degree in fine arts. Jimenez had been in Mexico before moving to New York City to become an assistant to a famous sculptor named Seymour Lipton. After getting the opportunity to put his own work out there which went very well after finding a market where buyers wanted his art work immediately. By 1972, he had moved on to Roswell, New Mexico since his studio back on at home was too small. Eventually he found an abandoned schoolhouse in Hondo, New Mexico where he reconstructed it to be his home and permanent studio. Since moving back to the southwest, he solely focuses on western ideologies and stories. 
 
-This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
+Unfortunately for Luis Jimenez his life came to a stop at just 65 years old on June 13, 2006 following a tragic studio accident in Hondo, New Mexico. A section of his famous Blue Mustang sculpture came tied and pinned him against a steel support beam, severing an artery, and then later dying at Lincoln County medical Center near Ruidoso, New Mexico. This Blue Mustang statue can still be seen with its glowing red eyes at the Denver International Airport in Denver, Colorado. 
 
 <!-- Carousel: use when you have three or more images that belong together but do not
      each need their own paragraph. Images are split on commas, captions on the | character.
