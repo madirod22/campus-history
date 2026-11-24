@@ -71,19 +71,19 @@ Unfortunately for Luis Jimenez his life came to a stop at just 65 years old on J
      the collection name and box number instead of linking. -->
 
 {% assign images =
-"sample-archive-photo.jpg,
+"painting-fiesta-dancers-photo.jpg,
 sample-second-photo.jpg,
 sample-primary-source.jpg" | split: ','
 %}
 
 {% assign headers =
-"Replace with a short slide title,
+"Painting of statue,
 Replace with a short slide title,
 Replace with a short slide title" | split: ','
 %}
 
 {% assign captions =
-"Replace this caption. Explain what this slide shows and why it matters. Center for Southwest Research, collection name, box number.|
+" These pictures show the construction and Luis Jimenez himself, in the beginning process adding the symbolic vibrant colors to after finishing the works of fiber glass. Eduardo Fuss “Luis Jimenez” Center for Southwestern Research, Photograph Collection 2011-001. Pictorial Collection Box 12, folder 9.|
 Replace this caption. Every slide needs one. Center for Southwest Research, collection name, box number.|
 Replace this caption. Plain text only in carousels, so spell out the source instead of linking. Center for Southwest Research, collection name, box number." | split: '|'
 %}
