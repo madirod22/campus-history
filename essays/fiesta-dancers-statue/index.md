@@ -60,7 +60,6 @@ Albuquerque Museum - One Albuquerque, circa 1997. [source] https://artmuseum.unm
   image-path="luis-jimenez-photo.jpg"
 %}
 
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
 
 ## “Who is Luis Jimenez?”
 
