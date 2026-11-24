@@ -57,7 +57,7 @@ As you walk on UNMs campus and you enjoy all the unique structures and public th
   width="100%"
   caption=" A photograph taken by Oscar Lozoya. Luis Jimenez surrounded by his sculptures representing his mark in the artist world.
 Albuquerque Museum - One Albuquerque, circa 1997. [source] https://artmuseum.unm.edu/luis-jimenez/"
-  image-path="luis-jimenez.jpg"
+  image-path="luis-jimenez-photo.jpg"
 %}
 
 Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
