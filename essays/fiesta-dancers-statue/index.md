@@ -7,7 +7,7 @@ header-image: fiesta-dancers-statue.jpg   # the filename of your own image
 header-caption: Fiesta Dancers - New Mexicos Digital Collection 2018.
 
 # Fill these in later, once your research is under way.
-card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
+card-description: The Fiesta Jarabe Statue shows the importance of representation in Mexican-American Heritage. Luis Jimenez's artwork has a clear message behind the "working-class" of the statue.
 
 # Leave this line as it is.
 layout: essay
@@ -120,9 +120,13 @@ Though with a lot of controversial ideas about Luis, he continued to make art th
 
 Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
 
-## Why This History Matters
+## “The Restoration of the Dancers” 
 
-End by returning to the present. How should readers see this campus place, person, organization, object, or event differently after reading your essay? Point to continued use, memory, loss, gaps in the archive, or campus change rather than announcing a conclusion.
+In 2019, conversation sparked about the Fiesta Dancers Statue also known as Fiesta Jarabe, had only been restored since its original installment of the public art. With extensive weather damage and exposure, it had caused the sculpture to become worn out and the vibrant colors faded drastically which would contradict the artists style of bright artwork. Since the status of the art piece was in pretty bad condition, UNM made a call to a professional art work restorer from the Silo Workshop. 
+
+With that many complication appeared and the time to restore the sculpture took much longer than anticipated but in the end the team was happy with the final results as Conor Hollis says from the Silo Workshop. This hefty and time consuming project took many layering of different transparent colors to signify the depth of Jimenez’s use of colors. 
+
+Plans for the future care of this public art is carefully observed by UNM in order to really show that the public art on UNMs campus is what makes the site so unique even in a place like Albuquerque and is very true to its heritage and art. Keeping up with the statue of not only the public art but the history behind the buildings as well, is what brings more fascination to the students, staff, and the visitors of the public. Remaining under supervision and careful cleaning, the Fiesta Jarabe Statue is bound to bring cultural representation to the University of New Mexico. 
 
 {% capture bibliography %}
 - Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
