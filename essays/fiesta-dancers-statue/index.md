@@ -55,8 +55,9 @@ As you walk on UNMs campus and you enjoy all the unique structures and public th
 {% include images/figure.html
   class="img-center"
   width="100%"
-  caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
-  image-path="sample-archive-photo.jpg"
+  caption=" A photograph taken Oscar Lozoya. Luis Jimenez surrounded by his sculptures representing his mark in the artist world.
+Albuquerque Museum - One Albuquerque, circa 1997. https://artmuseum.unm.edu/luis-jimenez/"
+  image-path="luis-jimenez.jpg"
 %}
 
 Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
