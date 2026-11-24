@@ -98,9 +98,14 @@ Replace this caption. Plain text only in carousels, so spell out the source inst
 
 Delete the carousel if you do not have a set of images that works this way. Three related photographs, a series of floor plans, or a run of newspaper clippings are all good candidates. Two images that need to be compared directly are usually better as a pair than as a carousel.
 
-## Evidence
+## “Fiesta Dancers Statue” 
+The Fiesta Dancers Statue was constructed in and installed in the year of 1996, made with fiberglass, epoxy, and metallic powdered paint. The University of New Mexico celebrates Luis Jimenez by displaying this statue in front of the Center for Arts. Representing a male and female dance partners that are decorated with vibrant colors and posed as “energetic”. As expressed buy Luis Jimenez it represents a tribute to the south-west working class and the struggles that are dragged along to success. 
 
-Use this section to show readers a document, not just a photograph. Scanned letters, meeting minutes, ledgers, clippings, and blueprints all reward close looking, and they prove you spent time in the boxes.
+As this structure was being installed there were many positive opinions towards the piece of art, though it did come with a. Lot of disapproval from the population of UNM and even venturing out to the general population of Albuquerque. Professor David Crane wrote an article about in the statue that was included in the The Albuquerque Tribune and what the public has to say about it. Common opinions being that the statue itself was “ugly” and clearly based on more refined concepts of beauty. 
+
+While Fiesta Dancers is one of the more unique pieces of art on The University of New Mexicos campus, it is one of five duplicates that Jimenez also constructed, though they are all slightly different from each other. Jimenez’s work is a clear representation of what stances he wanted to make visible. 
+
+Though with a lot of controversial ideas about Luis, he continued to make art that people question the height of his career. 
 
 <!-- Portrait documents are the exception to the full-width rule. A tall scan at 100%
      is over 1200px tall and swallows the screen, so center it and leave it near 55%.
