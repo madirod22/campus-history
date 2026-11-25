@@ -73,7 +73,7 @@ Unfortunately for Luis Jimenez his life came to a stop at just 65 years old on J
 {% assign images =
 "painting-statue-photo.jpg,
 statue-drawing-photo.jpg,
-dancers-statue-photo.jpg" | split: ','
+mini-statue-photo.jpg" | split: ','
 %}
 
 {% assign headers =
