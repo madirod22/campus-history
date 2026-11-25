@@ -112,7 +112,7 @@ Though with a lot of controversial ideas about Luis, he continued to make art th
 {% include images/figure.html
   class="img-center"
   width="55%"
-  caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
+  caption="Albuquerque Tribune article dedicated to discussing the positive and negative opinions behind the Fiesta Dancers. Luis Jimenez: In the UNAM collection-UNM Art Museum. May 10, 1996. [source](https://artmuseum.unm.edu/luis-jimenez/)"
   image-path="newspaper-photo.jpg"
 %}
 
