@@ -71,7 +71,7 @@ Unfortunately for Luis Jimenez his life came to a stop at just 65 years old on J
      the collection name and box number instead of linking. -->
 
 {% assign images =
-"painting-fiesta-dancers-photo.jpg,
+"painting-statue-photo.jpg,
 sample-second-photo.jpg,
 sample-primary-source.jpg" | split: ','
 %}
