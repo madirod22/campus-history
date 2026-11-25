@@ -72,19 +72,19 @@ Unfortunately for Luis Jimenez his life came to a stop at just 65 years old on J
 
 {% assign images =
 "painting-statue-photo.jpg,
-sample-second-photo.jpg,
+statue-drawing-photo.jpg,
 sample-primary-source.jpg" | split: ','
 %}
 
 {% assign headers =
 "Painting of statue,
-Replace with a short slide title,
+Drawing of statue,
 Replace with a short slide title" | split: ','
 %}
 
 {% assign captions =
 " These pictures show the construction and Luis Jimenez himself, in the beginning process adding the symbolic vibrant colors to after finishing the works of fiber glass. Eduardo Fuss “Luis Jimenez” Center for Southwestern Research, Photograph Collection 2011-001. Pictorial Collection Box 12, folder 9.|
-Replace this caption. Every slide needs one. Center for Southwest Research, collection name, box number.|
+This image form the archives shows an illustration for the Fiesta Dancers creation. Eduardo Fuss “Luis Jimenez” Center for Southwestern Research, Photograph Collection 2011-001. Pictorial Collection Box 12, folder 9.|
 Replace this caption. Plain text only in carousels, so spell out the source instead of linking. Center for Southwest Research, collection name, box number." | split: '|'
 %}
 
