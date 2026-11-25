@@ -127,9 +127,15 @@ With that many complication appeared and the time to restore the sculpture took 
 Plans for the future care of this public art is carefully observed by UNM in order to really show that the public art on UNMs campus is what makes the site so unique even in a place like Albuquerque and is very true to its heritage and art. Keeping up with the statue of not only the public art but the history behind the buildings as well, is what brings more fascination to the students, staff, and the visitors of the public. Remaining under supervision and careful cleaning, the Fiesta Jarabe Statue is bound to bring cultural representation to the University of New Mexico. 
 
 {% capture bibliography %}
-- Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
-- Replace this with your second source.
-- Replace this with your third source.
+-  Cerne, Hannah. “Luis Jiménez: In the UNMAM Collection .” UNM Art Museum, 21 Nov. 2023, cartmuseum.unm.edu/luis-jimenez/.
+This article on the UNM website goes into depth about who Luis Jimenez is to UNM and 			the cultural representation that he brings to campus with his “Fiesta Jarabe Statue.” 			Including the many conversations of debate of whether it is an accurate representation of 		the “working class”. Going into the complexity of art that has been involved in his family 	since he was born. Talking about his relationship with the type of art he uses such as 			fiberglass and powdered metallic paint. Along with also going into detail on his career before he was well know, going into his schooling and journey of getting his work out into the public. Incorporating the importance of Mexican-American culture into every single piece he has created that are scattered throughout the southwestern parts of the country. 
+
+- Linthicum, Ryan. “In this case: Luis Jimenez’s Model for Fiesta.” SAAM, November 24, 2015, 
+https://americanart.si.edu/blog/eye-level/2015/24/384/case-luis-jimenezs-model-fiesta 
+This website talks about the ideas that Luis had for this project of his. Along with going 		into details about the hate and love for the statue. Pull quote “In redefining the myth, 			we’re really  defining ourselves…” Luis Jimenez, Texas Monthly, September 1998. 			Stating that because the statue is ugly, its representing the true faces of the west.
+
+- Pena-Parr, Victoria. “UNM Restores Iconic Sculpture on Campus.” UNM UCAM Newsroom, 21 Feb. 2019, https://news.unm.edu/news/unm-restores-iconic-sculpture-on-campus 
+This article on UNM newsroom website shared in the year 2019 talks about how the installation of the first Jarabe statue was the last time it was ever checked up on. Since the severe years of weather damage and time that has taken the beauty and style of Jimenez that made his art his own, UNM decided it was time to call professionals from Silo workshop to come restore the statue. Since there was so much damage, it took way longer than they had anticipated with many layering to his work to restore his vibrant outgoing colors. Satisfied with the final product of restoration, UNM stay attentive to the statue making sure it is clean and under careful care for the future. 
 {% endcapture %}
 
 {% include typography/bibliography.html
