@@ -113,7 +113,7 @@ Though with a lot of controversial ideas about Luis, he continued to make art th
   class="img-center"
   width="55%"
   caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
-  image-path="sample-primary-source.jpg"
+  image-path="newspaper-photo.jpg"
 %}
 
 After a  visit to the Southwestern Research Center, I’ve come to realize AI didn’t do a terrible job at giving short but descriptive information about the different attributes that went into this statue. Mentioning many similarities like who Luis Jimenez was, what he stood for, the construction/restoration of the statue, and the controversies that came along from the public. AI mentions “Today, Fiesta Jarabe represents more than a pair of dancers. Its history reflects the importance of Mexican American artists in shaping the cultural identity of New Mexico and the ways public monuments can spark debate.” Which I feel relates a lot to what my research was consistent of. Though I do feel it leaned more to the bad opinions on it rather than some of positive ones like the many art critics and the media praise on the piece of art because of the artistic challenges that are behind it such as, the conventional standards of beauty and deep symbolism.
