@@ -95,7 +95,6 @@ UofNM Threads “Close up picture of Fiesta Jarabe Statue” Taken September 27,
   captions=captions
 %}
 
-Delete the carousel if you do not have a set of images that works this way. Three related photographs, a series of floor plans, or a run of newspaper clippings are all good candidates. Two images that need to be compared directly are usually better as a pair than as a carousel.
 
 ## “Fiesta Dancers Statue” 
 The Fiesta Dancers Statue was constructed in and installed in the year of 1996, made with fiberglass, epoxy, and metallic powdered paint. The University of New Mexico celebrates Luis Jimenez by displaying this statue in front of the Center for Arts. Representing a male and female dance partners that are decorated with vibrant colors and posed as “energetic”. As expressed buy Luis Jimenez it represents a tribute to the south-west working class and the struggles that are dragged along to success. 
