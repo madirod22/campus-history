@@ -86,7 +86,7 @@ Close up photo of statue" | split: ','
 " These pictures show the construction and Luis Jimenez himself, in the beginning process adding the symbolic vibrant colors to after finishing the works of fiber glass. Eduardo Fuss “Luis Jimenez” Center for Southwestern Research, Photograph Collection 2011-001. Pictorial Collection Box 12, folder 9.|
 This image form the archives shows an illustration for the Fiesta Dancers creation. Eduardo Fuss “Luis Jimenez” Center for Southwestern Research, Photograph Collection 2011-001. Pictorial Collection Box 12, folder 9.|
 Showing that though it is considered an “ugly” statue, it represents much more than just beauty but the culturally representation of most of New Mexicos Population.
-UofNM Threads “Close up picture of Fiesta Jarabe Statue” Taken September 27, 2024. [source](https://www.threads.com/@uofnm/post/DAbyhquqQnl.)" | split: '|'
+UofNM Threads “Close up picture of Fiesta Jarabe Statue” Taken September 27, 2024. Threads @UofNM" | split: '|'
 %}
 
 {% include images/carousel.html
